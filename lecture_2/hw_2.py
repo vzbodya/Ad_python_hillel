@@ -51,5 +51,3 @@ def get_price(item_id, quantity) -> float:
 get_unique_names()
 order_income = get_price(1, 10)
 print(order_income)
-
-
